@@ -3,7 +3,7 @@
 |Repository|Status|
 |-|-|
 |[FMC4SE](https://github.com/oalt/fmc4se)|[![Build Status](https://dev.azure.com/oa0170/FMC4SE/_apis/build/status/oalt.fmc4se?branchName=master)](https://dev.azure.com/oa0170/FMC4SE/_build/latest?definitionId=1&branchName=master)|
-|[MDD4All.Notes](https://github.com/oalt/MDD4All.Notes)||
+|[MDD4All.Notes](https://github.com/oalt/MDD4All.Notes)|[![App Build](https://github.com/oalt/MDD4All.Notes/actions/workflows/build.yml/badge.svg)](https://github.com/oalt/MDD4All.Notes/actions/workflows/build.yml)|
 
 ### Microservices
 |Repository|Status|
