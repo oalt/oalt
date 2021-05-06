@@ -26,6 +26,7 @@
 |Repository|Status|
 |-|-|
 |[MDD4All.SpecIF.DataProvider.File](https://github.com/oalt/MDD4All.SpecIF.DataProvider.File)|[![Nuget Package Build](https://github.com/oalt/MDD4All.SpecIF.DataProvider.File/actions/workflows/build.yml/badge.svg)](https://github.com/oalt/MDD4All.SpecIF.DataProvider.File/actions/workflows/build.yml)|
+|[MDD4All.SpecIF.DataProvider.MongoDB](https://github.com/oalt/MDD4All.SpecIF.DataProvider.MongoDB)|[![Nuget Package Build](https://github.com/oalt/MDD4All.SpecIF.DataProvider.MongoDB/actions/workflows/build.yml/badge.svg)](https://github.com/oalt/MDD4All.SpecIF.DataProvider.MongoDB/actions/workflows/build.yml)|
 |[MDD4All.SpecIF.DataProvider.Jira](https://github.com/oalt/MDD4All.SpecIF.DataProvider.Jira)|[![Nuget Package Build](https://github.com/oalt/MDD4All.SpecIF.DataProvider.Jira/actions/workflows/build.yml/badge.svg)](https://github.com/oalt/MDD4All.SpecIF.DataProvider.Jira/actions/workflows/build.yml)|
 |[MDD4All.SpecIF.DataProvider.EA](https://github.com/oalt/MDD4All.SpecIF.DataProvider.EA)|[![Nuget Package Build](https://github.com/oalt/MDD4All.SpecIF.DataProvider.EA/actions/workflows/build.yml/badge.svg)](https://github.com/oalt/MDD4All.SpecIF.DataProvider.EA/actions/workflows/build.yml)|
 |[MDD4All.SpecIF.DataProvider.Contracts](https://github.com/oalt/MDD4All.SpecIF.DataProvider.Contracts)|![Nuget Package Build](https://github.com/oalt/MDD4All.SpecIF.DataProvider.Contracts/workflows/Nuget%20Package%20Build/badge.svg)|
