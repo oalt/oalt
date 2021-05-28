@@ -9,7 +9,7 @@
 ### Microservices
 |Repository|Status|
 |-|-|
-|[SpecIF-Backend](https://github.com/oalt/SpecIF-Backend)|[![Build Status](https://dev.azure.com/oa0170/SpecIF%20Backend/_apis/build/status/oalt.SpecIF-Backend?branchName=master)](https://dev.azure.com/oa0170/SpecIF%20Backend/_build/latest?definitionId=3&branchName=master)|
+|[SpecIF-Backend](https://github.com/oalt/SpecIF-Backend)|[![Build Status](https://dev.azure.com/oa0170/SpecIF%20Backend/_apis/build/status/oalt.SpecIF-Backend?branchName=master)](https://dev.azure.com/oa0170/SpecIF%20Backend/_build/latest?definitionId=3&branchName=master)  [![Dev Integration Build](https://github.com/oalt/SpecIF-Backend/actions/workflows/dev-build.yml/badge.svg)](https://github.com/oalt/SpecIF-Backend/actions/workflows/dev-build.yml)|
 
 ### Components
 |Repository|Status|
