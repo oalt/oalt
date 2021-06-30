@@ -35,6 +35,7 @@
 ### DataAccess
 |Repository|Status|
 |-|-|
+|[MDD4All.Jira.DataAccess](https://github.com/oalt/MDD4All.Jira.DataAccess)|[![Nuget Package Build](https://github.com/oalt/MDD4All.Jira.DataAccess/actions/workflows/build.yml/badge.svg)](https://github.com/oalt/MDD4All.Jira.DataAccess/actions/workflows/build.yml)|
 |[MDD4All.SpecIF.DataAccess.Jira](https://github.com/oalt/MDD4All.SpecIF.DataAccess.Jira)|[![Nuget Package Build](https://github.com/oalt/MDD4All.SpecIF.DataAccess.Jira/actions/workflows/build.yml/badge.svg)](https://github.com/oalt/MDD4All.SpecIF.DataAccess.Jira/actions/workflows/build.yml)|
 |[MDD4All.MongoDB.DataAccess.Generic](https://github.com/oalt/MDD4All.MongoDB.DataAccess.Generic)|![Nuget Package Build](https://github.com/oalt/MDD4All.MongoDB.DataAccess.Generic/workflows/Nuget%20Package%20Build/badge.svg)|
 |[MDD4All.EnterpriseArchitect.Manipulations](https://github.com/oalt/eaapi)|[![Build Status](https://dev.azure.com/oa0170/EAAPI/_apis/build/status/oalt.eaapi?branchName=master)](https://dev.azure.com/oa0170/EAAPI/_build/latest?definitionId=2&branchName=master)|
