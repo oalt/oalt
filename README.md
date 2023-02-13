@@ -5,11 +5,12 @@
 |[FMC4SE](https://github.com/oalt/fmc4se)|[![Build Status](https://dev.azure.com/oa0170/FMC4SE/_apis/build/status/oalt.fmc4se?branchName=master)](https://dev.azure.com/oa0170/FMC4SE/_build/latest?definitionId=1&branchName=master)|
 |[MDD4All.Notes](https://github.com/oalt/MDD4All.Notes)|[![App Build](https://github.com/oalt/MDD4All.Notes/actions/workflows/build.yml/badge.svg)](https://github.com/oalt/MDD4All.Notes/actions/workflows/build.yml)|
 |[MDD4All.SpecIF.Apps.EaPlugin](https://github.com/oalt/MDD4All.SpecIF.Apps.EaPlugin)|[![EA-Plugin Integration Build](https://github.com/oalt/MDD4All.SpecIF.Apps.EaPlugin/actions/workflows/dev-build.yml/badge.svg)](https://github.com/oalt/MDD4All.SpecIF.Apps.EaPlugin/actions/workflows/dev-build.yml) [![EA-Plugin Build](https://github.com/oalt/MDD4All.SpecIF.Apps.EaPlugin/actions/workflows/build.yml/badge.svg)](https://github.com/oalt/MDD4All.SpecIF.Apps.EaPlugin/actions/workflows/build.yml)|
+|SpecIFicator Frontend|[![Frontend Development Integration Build](https://github.com/oalt/SpecIFicator-dev/actions/workflows/frontend-dev-build.yml/badge.svg)](https://github.com/oalt/SpecIFicator-dev/actions/workflows/frontend-dev-build.yml)|
 
 ### Microservices
 |Repository|Status|
 |-|-|
-|[SpecIF-Backend](https://github.com/oalt/SpecIF-Backend)|[![Build Status](https://dev.azure.com/oa0170/SpecIF%20Backend/_apis/build/status/oalt.SpecIF-Backend?branchName=master)](https://dev.azure.com/oa0170/SpecIF%20Backend/_build/latest?definitionId=3&branchName=master)  [![Dev Integration Build](https://github.com/oalt/SpecIF-Backend/actions/workflows/dev-build.yml/badge.svg)](https://github.com/oalt/SpecIF-Backend/actions/workflows/dev-build.yml)|
+|[SpecIF-Backend](https://github.com/oalt/SpecIF-Backend)|[![Build Status](https://dev.azure.com/oa0170/SpecIF%20Backend/_apis/build/status/oalt.SpecIF-Backend?branchName=master)](https://dev.azure.com/oa0170/SpecIF%20Backend/_build/latest?definitionId=3&branchName=master)  [![Backend Development Integration Build](https://github.com/oalt/SpecIFicator-dev/actions/workflows/backend-dev-build.yml/badge.svg)](https://github.com/oalt/SpecIFicator-dev/actions/workflows/backend-dev-build.yml)|
 
 ### Components
 |Repository|Status|
