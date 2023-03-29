@@ -4,7 +4,7 @@
 |-|-|
 |[FMC4SE](https://github.com/oalt/fmc4se)|[![Build Status](https://dev.azure.com/oa0170/FMC4SE/_apis/build/status/oalt.fmc4se?branchName=master)](https://dev.azure.com/oa0170/FMC4SE/_build/latest?definitionId=1&branchName=master)|
 |[MDD4All.Notes](https://github.com/oalt/MDD4All.Notes)|[![App Build](https://github.com/oalt/MDD4All.Notes/actions/workflows/build.yml/badge.svg)](https://github.com/oalt/MDD4All.Notes/actions/workflows/build.yml)|
-|[MDD4All.SpecIF.Apps.EaPlugin](https://github.com/oalt/MDD4All.SpecIF.Apps.EaPlugin)|[![EA-Plugin Integration Build](https://github.com/oalt/MDD4All.SpecIF.Apps.EaPlugin/actions/workflows/dev-build.yml/badge.svg)](https://github.com/oalt/MDD4All.SpecIF.Apps.EaPlugin/actions/workflows/dev-build.yml) [![EA-Plugin Build](https://github.com/oalt/MDD4All.SpecIF.Apps.EaPlugin/actions/workflows/build.yml/badge.svg)](https://github.com/oalt/MDD4All.SpecIF.Apps.EaPlugin/actions/workflows/build.yml)|
+|[MDD4All.SpecIF.Apps.EaPlugin](https://github.com/oalt/MDD4All.SpecIF.Apps.EaPlugin)|[![EA-Plugin Integration Build](https://github.com/specificator/SpecIFicator-dev/actions/workflows/EA-plugin-inetgration-dev-build.yml/badge.svg)](https://github.com/specificator/SpecIFicator-dev/actions/workflows/EA-plugin-inetgration-dev-build.yml) [![EA-Plugin Build](https://github.com/oalt/MDD4All.SpecIF.Apps.EaPlugin/actions/workflows/build.yml/badge.svg)](https://github.com/oalt/MDD4All.SpecIF.Apps.EaPlugin/actions/workflows/build.yml)|
 |[SpecIFicator Frontend](https://github.com/oalt/SpecIFicator-dev)|[![SpecIFictor Development Integration Build](https://github.com/oalt/SpecIFicator-dev/actions/workflows/specificator-integration-dev-build.yml/badge.svg)](https://github.com/oalt/SpecIFicator-dev/actions/workflows/specificator-integration-dev-build.yml) [![Build frontend snapshot](https://github.com/oalt/SpecIFicator-dev/actions/workflows/frontend-publish-snapshot.yml/badge.svg)](https://github.com/oalt/SpecIFicator-dev/actions/workflows/frontend-publish-snapshot.yml)|
 
 ### Microservices
@@ -12,13 +12,25 @@
 |-|-|
 |[SpecIF-Backend](https://github.com/oalt/SpecIFicator-dev)|[![SpecIFictor Development Integration Build](https://github.com/oalt/SpecIFicator-dev/actions/workflows/specificator-integration-dev-build.yml/badge.svg)](https://github.com/oalt/SpecIFicator-dev/actions/workflows/specificator-integration-dev-build.yml) [![Build backend and push Docker](https://github.com/oalt/SpecIFicator-dev/actions/workflows/backend-docker-build.yml/badge.svg)](https://github.com/oalt/SpecIFicator-dev/actions/workflows/backend-docker-build.yml)|
 
+### Frameworks
+|Repository|Status|
+|-|-|
+|[SpecIFicator.Framework](https://github.com/specificator/SpecIFicator.Framework)|[![Nuget Package Build](https://github.com/specificator/SpecIFicator.Framework/actions/workflows/build.yml/badge.svg)](https://github.com/specificator/SpecIFicator.Framework/actions/workflows/build.yml)|
+
 ### Components
 
 #### UI
 |Repository|Status|
 |-|-|
+|[MDD4All.UI.BlazorComponents](https://github.com/oalt/MDD4All.UI.BlazorComponents)|[![Nuget Package Build](https://github.com/oalt/MDD4All.UI.BlazorComponents/actions/workflows/build.yml/badge.svg)](https://github.com/oalt/MDD4All.UI.BlazorComponents/actions/workflows/build.yml)|
 |[MDD4All.SpecIF.ViewModels](https://github.com/oalt/MDD4All.SpecIF.ViewModels)|[![Nuget Package Build](https://github.com/oalt/MDD4All.SpecIF.ViewModels/actions/workflows/build.yml/badge.svg)](https://github.com/oalt/MDD4All.SpecIF.ViewModels/actions/workflows/build.yml)|
 |[MDD4All.FileAccess.Contracts](https://github.com/oalt/MDD4All.FileAccess.Contracts)|[![Nuget Package Build](https://github.com/oalt/MDD4All.FileAccess.Contracts/actions/workflows/build.yml/badge.svg)](https://github.com/oalt/MDD4All.FileAccess.Contracts/actions/workflows/build.yml)|
+
+|3rd party forks|Status|
+|-|-|
+|[BlazingComponents.Summernote](https://github.com/oalt/Summernote)||
+|[SplitJs.Blazor](https://github.com/oalt/SplitJs.Blazor)|[![Nuget Package Build](https://github.com/oalt/SplitJs.Blazor/actions/workflows/build.yml/badge.svg)](https://github.com/oalt/SplitJs.Blazor/actions/workflows/build.yml)|
+|[VisNetwork.Blazor](https://github.com/oalt/VisNetwork.Blazor)|[![Nuget Package Build](https://github.com/oalt/VisNetwork.Blazor/actions/workflows/build.yml/badge.svg)](https://github.com/oalt/VisNetwork.Blazor/actions/workflows/build.yml)|
 
 #### Data Integration
 |Repository|Status|
