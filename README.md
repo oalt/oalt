@@ -28,7 +28,7 @@
 
 |3rd party forks|Status|
 |-|-|
-|[BlazingComponents.Summernote](https://github.com/oalt/Summernote)||
+|[BlazingComponents.Summernote](https://github.com/oalt/Summernote)|[![Nuget Package Build](https://github.com/oalt/Summernote/actions/workflows/build.yml/badge.svg)](https://github.com/oalt/Summernote/actions/workflows/build.yml)|
 |[SplitJs.Blazor](https://github.com/oalt/SplitJs.Blazor)|[![Nuget Package Build](https://github.com/oalt/SplitJs.Blazor/actions/workflows/build.yml/badge.svg)](https://github.com/oalt/SplitJs.Blazor/actions/workflows/build.yml)|
 |[VisNetwork.Blazor](https://github.com/oalt/VisNetwork.Blazor)|[![Nuget Package Build](https://github.com/oalt/VisNetwork.Blazor/actions/workflows/build.yml/badge.svg)](https://github.com/oalt/VisNetwork.Blazor/actions/workflows/build.yml)|
 
