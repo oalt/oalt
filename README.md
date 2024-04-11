@@ -17,6 +17,11 @@
 |-|-|
 |[SpecIFicator.Framework](https://github.com/specificator/SpecIFicator.Framework)|[![Nuget Package Build](https://github.com/specificator/SpecIFicator.Framework/actions/workflows/build.yml/badge.svg)](https://github.com/specificator/SpecIFicator.Framework/actions/workflows/build.yml)|
 
+### SpecIFicator Plugins
+|Repository|Status|
+|-|-|
+|[SpecIFicator.DefaultPlugin](https://github.com/specificator/SpecIFicator.DefaultPlugin)|[![Plugin Build](https://github.com/specificator/SpecIFicator.DefaultPlugin/actions/workflows/build.yml/badge.svg)](https://github.com/specificator/SpecIFicator.DefaultPlugin/actions/workflows/build.yml)|
+
 ### Components
 
 #### UI
@@ -28,7 +33,7 @@
 
 |3rd party forks|Status|
 |-|-|
-|[BlazingComponents.Summernote](https://github.com/oalt/Summernote)||
+|[BlazingComponents.Summernote](https://github.com/oalt/Summernote)|[![Nuget Package Build](https://github.com/oalt/Summernote/actions/workflows/build.yml/badge.svg)](https://github.com/oalt/Summernote/actions/workflows/build.yml)|
 |[SplitJs.Blazor](https://github.com/oalt/SplitJs.Blazor)|[![Nuget Package Build](https://github.com/oalt/SplitJs.Blazor/actions/workflows/build.yml/badge.svg)](https://github.com/oalt/SplitJs.Blazor/actions/workflows/build.yml)|
 |[VisNetwork.Blazor](https://github.com/oalt/VisNetwork.Blazor)|[![Nuget Package Build](https://github.com/oalt/VisNetwork.Blazor/actions/workflows/build.yml/badge.svg)](https://github.com/oalt/VisNetwork.Blazor/actions/workflows/build.yml)|
 
@@ -69,7 +74,7 @@
 |[MDD4All.SpecIF.DataProvider.EA](https://github.com/oalt/MDD4All.SpecIF.DataProvider.EA)|[![Nuget Package Build](https://github.com/oalt/MDD4All.SpecIF.DataProvider.EA/actions/workflows/build.yml/badge.svg)](https://github.com/oalt/MDD4All.SpecIF.DataProvider.EA/actions/workflows/build.yml)|
 |[MDD4All.SpecIF.DataProvider.Base](https://github.com/oalt/MDD4All.SpecIF.DataProvider.Base)|[![Nuget Package Build](https://github.com/oalt/MDD4All.SpecIF.DataProvider.Base/actions/workflows/build.yml/badge.svg)](https://github.com/oalt/MDD4All.SpecIF.DataProvider.Base/actions/workflows/build.yml)|
 |[MDD4All.SpecIF.DataProvider.Contracts](https://github.com/oalt/MDD4All.SpecIF.DataProvider.Contracts)|![Nuget Package Build](https://github.com/oalt/MDD4All.SpecIF.DataProvider.Contracts/workflows/Nuget%20Package%20Build/badge.svg)|
-
+|[MDD4All.SpecIF.DataProvider.WebAPI](https://github.com/oalt/MDD4All.SpecIF.DataProvider.WebAPI)|[![Nuget Package Build](https://github.com/oalt/MDD4All.SpecIF.DataProvider.WebAPI/actions/workflows/build.yml/badge.svg)](https://github.com/oalt/MDD4All.SpecIF.DataProvider.WebAPI/actions/workflows/build.yml)|
 
 ### DataAccess
 |Repository|Status|
